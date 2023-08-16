@@ -1,6 +1,6 @@
 const baseUrl =
     process.env.NODE_ENV !== "production" ?
     "http://localhost:3000" :
-    "https://mini-social-media-web.herokuapp.com";
+    "https://social-webapp-zk5f.onrender.com";
 
 module.exports = baseUrl;
